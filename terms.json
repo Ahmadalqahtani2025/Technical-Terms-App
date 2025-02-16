@@ -1,0 +1,2462 @@
+[
+    {
+        "English Term": "lower",
+        "Arabic Translation": "يخفض",
+        "Description": "تحريك شيء إلى موضع أدنى، مثل خفض رافعة السيارة",
+        "image_path": "/static/images/lower.png",
+        "audio_path": "/static/audio/lower.mp3"
+    },
+    {
+        "English Term": "mechanic",
+        "Arabic Translation": "ميكانيكي",
+        "Description": "شخص متخصص في إصلاح وصيانة المركبات والآلات",
+        "image_path": "/static/images/mechanic.png",
+        "audio_path": "/static/audio/mechanic.mp3"
+    },
+    {
+        "English Term": "pit-stop crew",
+        "Arabic Translation": "طاقم الصيانة السريعة",
+        "Description": "فريق الفنيين المسؤول عن خدمة السيارة أثناء السباق",
+        "image_path": "/static/images/pit-stop-crew.png",
+        "audio_path": "/static/audio/pit-stop-crew.mp3"
+    },
+    {
+        "English Term": "tyre",
+        "Arabic Translation": "إطار",
+        "Description": "الجزء المطاطي الذي يحيط بعجلة السيارة",
+        "image_path": "/static/images/tyre.png",
+        "audio_path": "/static/audio/tyre.mp3"
+    },
+    {
+        "English Term": "adjust",
+        "Arabic Translation": "يضبط",
+        "Description": "تعديل أو ضبط شيء للحصول على الوضع المطلوب",
+        "image_path": "/static/images/adjust.png",
+        "audio_path": "/static/audio/adjust.mp3"
+    },
+    {
+        "English Term": "air pressure",
+        "Arabic Translation": "ضغط الهواء",
+        "Description": "مقدار ضغط الهواء في الإطارات أو النظام",
+        "image_path": "/static/images/air-pressure.png",
+        "audio_path": "/static/audio/air-pressure.mp3"
+    },
+    {
+        "English Term": "away",
+        "Arabic Translation": "بعيداً",
+        "Description": "الحركة بعيداً عن موقع معين",
+        "image_path": "/static/images/away.png",
+        "audio_path": "/static/audio/away.mp3"
+    },
+    {
+        "English Term": "blanket",
+        "Arabic Translation": "غطاء حراري",
+        "Description": "غطاء يستخدم للحفاظ على درجة حرارة إطارات سيارات السباق",
+        "image_path": "/static/images/blanket.png",
+        "audio_path": "/static/audio/blanket.mp3"
+    },
+    {
+        "English Term": "cockpit",
+        "Arabic Translation": "مقصورة القيادة",
+        "Description": "منطقة جلوس السائق في السيارة أو الطائرة",
+        "image_path": "/static/images/cockpit.png",
+        "audio_path": "/static/audio/cockpit.mp3"
+    },
+    {
+        "English Term": "driver",
+        "Arabic Translation": "سائق",
+        "Description": "الشخص الذي يقود المركبة",
+        "image_path": "/static/images/driver.png",
+        "audio_path": "/static/audio/driver.mp3"
+    },
+    {
+        "English Term": "fire suit",
+        "Arabic Translation": "بدلة مقاومة للحريق",
+        "Description": "ملابس واقية تستخدم للحماية من الحريق",
+        "image_path": "/static/images/fire-suit.png",
+        "audio_path": "/static/audio/fire-suit.mp3"
+    },
+    {
+        "English Term": "flap",
+        "Arabic Translation": "جنيح",
+        "Description": "جزء متحرك في السيارة أو الطائرة للتحكم في الهواء",
+        "image_path": "/static/images/flap.png",
+        "audio_path": "/static/audio/flap.mp3"
+    },
+    {
+        "English Term": "forward",
+        "Arabic Translation": "للأمام",
+        "Description": "الحركة في الاتجاه الأمامي",
+        "image_path": "/static/images/forward.png",
+        "audio_path": "/static/audio/forward.mp3"
+    },
+    {
+        "English Term": "front",
+        "Arabic Translation": "مقدمة",
+        "Description": "الجزء الأمامي من المركبة",
+        "image_path": "/static/images/front.png",
+        "audio_path": "/static/audio/front.mp3"
+    },
+    {
+        "English Term": "fuel",
+        "Arabic Translation": "وقود",
+        "Description": "المادة المستخدمة لتشغيل المحرك",
+        "image_path": "/static/images/fuel.png",
+        "audio_path": "/static/audio/fuel.mp3"
+    },
+    {
+        "English Term": "gear lever",
+        "Arabic Translation": "عصا تغيير السرعات",
+        "Description": "ذراع التحكم في تغيير سرعات السيارة",
+        "image_path": "/static/images/gear-lever.png",
+        "audio_path": "/static/audio/gear-lever.mp3"
+    },
+    {
+        "English Term": "hose",
+        "Arabic Translation": "خرطوم",
+        "Description": "أنبوب مرن لنقل السوائل أو الغازات",
+        "image_path": "/static/images/hose.png",
+        "audio_path": "/static/audio/hose.mp3"
+    },
+    {
+        "English Term": "nozzle",
+        "Arabic Translation": "فوهة",
+        "Description": "الجزء الطرفي من الخرطوم للتحكم في تدفق السائل",
+        "image_path": "/static/images/nozzle.png",
+        "audio_path": "/static/audio/nozzle.mp3"
+    },
+    {
+        "English Term": "pit lane",
+        "Arabic Translation": "ممر الصيانة",
+        "Description": "المنطقة المخصصة لتوقف سيارات السباق للصيانة",
+        "image_path": "/static/images/pit-lane.png",
+        "audio_path": "/static/audio/pit-lane.mp3"
+    },
+    {
+        "English Term": "pump",
+        "Arabic Translation": "مضخة",
+        "Description": "جهاز لضخ السوائل أو الغازات",
+        "image_path": "/static/images/pump.png",
+        "audio_path": "/static/audio/pump.mp3"
+    },
+    {
+        "English Term": "raise",
+        "Arabic Translation": "يرفع",
+        "Description": "فعل يعني رفع شيء إلى مستوى أعلى",
+        "image_path": "/static/images/raise.png",
+        "audio_path": "/static/audio/raise.mp3"
+    },
+    {
+        "English Term": "switch on",
+        "Arabic Translation": "يشغّل",
+        "Description": "تشغيل جهاز أو نظام",
+        "image_path": "/static/images/switch-on.png",
+        "audio_path": "/static/audio/switch-on.mp3"
+    },
+    {
+        "English Term": "switch off",
+        "Arabic Translation": "يطفئ",
+        "Description": "إيقاف تشغيل جهاز أو نظام",
+        "image_path": "/static/images/switch-off.png",
+        "audio_path": "/static/audio/switch-off.mp3"
+    },
+    {
+        "English Term": "push in",
+        "Arabic Translation": "يدفع للداخل",
+        "Description": "دفع شيء نحو الداخل",
+        "image_path": "/static/images/push-in.png",
+        "audio_path": "/static/audio/push-in.mp3"
+    },
+    {
+        "English Term": "pull out",
+        "Arabic Translation": "يسحب للخارج",
+        "Description": "سحب شيء نحو الخارج",
+        "image_path": "/static/images/pull-out.png",
+        "audio_path": "/static/audio/pull-out.mp3"
+    },
+    {
+        "English Term": "put on",
+        "Arabic Translation": "يضع/يلبس",
+        "Description": "وضع أو ارتداء شيء",
+        "image_path": "/static/images/put-on.png",
+        "audio_path": "/static/audio/put-on.mp3"
+    },
+    {
+        "English Term": "take off",
+        "Arabic Translation": "يخلع/ينزع",
+        "Description": "إزالة أو خلع شيء",
+        "image_path": "/static/images/take-off.png",
+        "audio_path": "/static/audio/take-off.mp3"
+    },
+    {
+        "English Term": "assemble",
+        "Arabic Translation": "يجمّع",
+        "Description": "تجميع أجزاء لتشكيل وحدة كاملة",
+        "image_path": "/static/images/assemble.png",
+        "audio_path": "/static/audio/assemble.mp3"
+    },
+    {
+        "English Term": "disassemble",
+        "Arabic Translation": "يفكك",
+        "Description": "تفكيك وحدة إلى أجزائها المكونة",
+        "image_path": "/static/images/disassemble.png",
+        "audio_path": "/static/audio/disassemble.mp3"
+    },
+    {
+        "English Term": "tighten",
+        "Arabic Translation": "يشد/يربط",
+        "Description": "إحكام ربط شيء",
+        "image_path": "/static/images/tighten.png",
+        "audio_path": "/static/audio/tighten.mp3"
+    },
+    {
+        "English Term": "loosen",
+        "Arabic Translation": "يرخي/يفك",
+        "Description": "تخفيف شد أو ربط شيء",
+        "image_path": "/static/images/loosen.png",
+        "audio_path": "/static/audio/loosen.mp3"
+    },
+    {
+        "English Term": "connect",
+        "Arabic Translation": "يوصل",
+        "Description": "ربط أو توصيل شيئين معاً",
+        "image_path": "/static/images/connect.png",
+        "audio_path": "/static/audio/connect.mp3"
+    },
+    {
+        "English Term": "disconnect",
+        "Arabic Translation": "يفصل",
+        "Description": "فصل شيئين عن بعضهما",
+        "image_path": "/static/images/disconnect.png",
+        "audio_path": "/static/audio/disconnect.mp3"
+    },
+    {
+        "English Term": "load",
+        "Arabic Translation": "يحمّل",
+        "Description": "وضع حمل أو بيانات في نظام",
+        "image_path": "/static/images/load.png",
+        "audio_path": "/static/audio/load.mp3"
+    },
+    {
+        "English Term": "unload",
+        "Arabic Translation": "يفرّغ",
+        "Description": "إزالة حمل أو بيانات من نظام",
+        "image_path": "/static/images/unload.png",
+        "audio_path": "/static/audio/unload.mp3"
+    },
+    {
+        "English Term": "activate",
+        "Arabic Translation": "يفعّل",
+        "Description": "جعل شيء في حالة نشطة أو عاملة",
+        "image_path": "/static/images/activate.png",
+        "audio_path": "/static/audio/activate.mp3"
+    },
+    {
+        "English Term": "deactivate",
+        "Arabic Translation": "يعطّل",
+        "Description": "إيقاف عمل شيء أو جعله غير نشط",
+        "image_path": "/static/images/deactivate.png",
+        "audio_path": "/static/audio/deactivate.mp3"
+    },
+    {
+        "English Term": "trainee",
+        "Arabic Translation": "متدرب",
+        "Description": "شخص يتلقى التدريب لاكتساب مهارات معينة",
+        "image_path": "/static/images/trainee.png",
+        "audio_path": "/static/audio/trainee.mp3"
+    },
+    {
+        "English Term": "fault",
+        "Arabic Translation": "عطل",
+        "Description": "خلل أو مشكلة في النظام أو الجهاز تمنعه من العمل بشكل صحيح",
+        "image_path": "/static/images/fault.png",
+        "audio_path": "/static/audio/fault.mp3"
+    },
+    {
+        "English Term": "repair",
+        "Arabic Translation": "إصلاح",
+        "Description": "عملية معالجة الأعطال وإعادة الجهاز إلى حالته التشغيلية الصحيحة",
+        "image_path": "/static/images/repair.png",
+        "audio_path": "/static/audio/repair.mp3"
+    },
+    {
+        "English Term": "replace",
+        "Arabic Translation": "استبدال",
+        "Description": "تغيير قطعة معطوبة بأخرى جديدة أو صالحة للعمل",
+        "image_path": "/static/images/replace.png",
+        "audio_path": "/static/audio/replace.mp3"
+    },
+    {
+        "English Term": "test",
+        "Arabic Translation": "اختبار",
+        "Description": "عملية فحص وتقييم أداء الجهاز أو النظام للتأكد من عمله بشكل صحيح",
+        "image_path": "/static/images/test.png",
+        "audio_path": "/static/audio/test.mp3"
+    },
+    {
+        "English Term": "activate",
+        "Arabic Translation": "تفعيل",
+        "Description": "تشغيل أو بدء عمل نظام أو وظيفة معينة",
+        "image_path": "/static/images/activate.png",
+        "audio_path": "/static/audio/activate.mp3"
+    },
+    {
+        "English Term": "device",
+        "Arabic Translation": "جهاز",
+        "Description": "وحدة تقنية مستقلة تؤدي وظيفة محددة",
+        "image_path": "/static/images/device.png",
+        "audio_path": "/static/audio/device.mp3"
+    },
+    {
+        "English Term": "laser beam",
+        "Arabic Translation": "شعاع ليزر",
+        "Description": "حزمة ضوئية مركزة تستخدم في التطبيقات التقنية والصناعية",
+        "image_path": "/static/images/laser-beam.png",
+        "audio_path": "/static/audio/laser-beam.mp3"
+    },
+    {
+        "English Term": "outboard motor",
+        "Arabic Translation": "محرك خارجي",
+        "Description": "محرك يثبت خارج القارب لتوليد القوة الدافعة",
+        "image_path": "/static/images/outboard-motor.png",
+        "audio_path": "/static/audio/outboard-motor.mp3"
+    },
+    {
+        "English Term": "sensor",
+        "Arabic Translation": "مستشعر",
+        "Description": "جهاز يكتشف ويقيس التغيرات في البيئة المحيطة",
+        "image_path": "/static/images/sensor.png",
+        "audio_path": "/static/audio/sensor.mp3"
+    },
+    {
+        "English Term": "robot",
+        "Arabic Translation": "روبوت",
+        "Description": "آلة مبرمجة قادرة على تنفيذ مهام محددة بشكل آلي",
+        "image_path": "/static/images/robot.png",
+        "audio_path": "/static/audio/robot.mp3"
+    },
+    {
+        "English Term": "detect",
+        "Arabic Translation": "اكتشاف",
+        "Description": "تحديد أو رصد وجود شيء أو حالة معينة",
+        "image_path": "/static/images/detect.png",
+        "audio_path": "/static/audio/detect.mp3"
+    },
+    {
+        "English Term": "receiver",
+        "Arabic Translation": "مستقبِل",
+        "Description": "جهاز يستقبل ويعالج الإشارات الإلكترونية",
+        "image_path": "/static/images/receiver.png",
+        "audio_path": "/static/audio/receiver.mp3"
+    },
+    {
+        "English Term": "technology",
+        "Arabic Translation": "تقنية",
+        "Description": "تطبيق المعرفة العلمية لأغراض عملية في الصناعة",
+        "image_path": "/static/images/technology.png",
+        "audio_path": "/static/audio/technology.mp3"
+    },
+    {
+        "English Term": "wireless",
+        "Arabic Translation": "لاسلكي",
+        "Description": "نقل البيانات أو الطاقة دون استخدام الأسلاك",
+        "image_path": "/static/images/wireless.png",
+        "audio_path": "/static/audio/wireless.mp3"
+    },
+    {
+        "English Term": "hydraulic cylinder",
+        "Arabic Translation": "أسطوانة هيدروليكية",
+        "Description": "جهاز يستخدم ضغط السوائل لتوليد قوة حركية",
+        "image_path": "/static/images/hydraulic-cylinder.png",
+        "audio_path": "/static/audio/hydraulic-cylinder.mp3"
+    },
+    {
+        "English Term": "transmission",
+        "Arabic Translation": "ناقل الحركة",
+        "Description": "نظام ينقل القدرة من المحرك إلى العجلات",
+        "image_path": "/static/images/transmission.png",
+        "audio_path": "/static/audio/transmission.mp3"
+    },
+    {
+        "English Term": "communications satellite",
+        "Arabic Translation": "قمر اتصالات صناعي",
+        "Description": "قمر صناعي مخصص لنقل إشارات الاتصالات",
+        "image_path": "/static/images/communications-satellite.png",
+        "audio_path": "/static/audio/communications-satellite.mp3"
+    },
+    {
+        "English Term": "frequency",
+        "Arabic Translation": "تردد",
+        "Description": "عدد الذبذبات أو الدورات في الثانية الواحدة",
+        "image_path": "/static/images/frequency.png",
+        "audio_path": "/static/audio/frequency.mp3"
+    },
+    {
+        "English Term": "satellite dish",
+        "Arabic Translation": "طبق استقبال فضائي",
+        "Description": "هوائي على شكل طبق لاستقبال إشارات الأقمار الصناعية",
+        "image_path": "/static/images/satellite-dish.png",
+        "audio_path": "/static/audio/satellite-dish.mp3"
+    },
+    {
+        "English Term": "digital TV card",
+        "Arabic Translation": "بطاقة التلفاز الرقمي",
+        "Description": "جهاز يمكن الحاسوب من استقبال إشارات التلفاز الرقمي",
+        "image_path": "/static/images/digital-tv-card.png",
+        "audio_path": "/static/audio/digital-tv-card.mp3"
+    },
+    {
+        "English Term": "conveyor",
+        "Arabic Translation": "ناقل آلي",
+        "Description": "نظام ميكانيكي لنقل المواد أو المنتجات من نقطة إلى أخرى",
+        "image_path": "/static/images/conveyor.png",
+        "audio_path": "/static/audio/conveyor.mp3"
+    },
+    {
+        "English Term": "cutter face",
+        "Arabic Translation": "وجه القاطع",
+        "Description": "السطح القاطع في أداة القطع الآلية",
+        "image_path": "/static/images/cutter-face.png",
+        "audio_path": "/static/audio/cutter-face.mp3"
+    },
+    {
+        "English Term": "drill",
+        "Arabic Translation": "مثقاب",
+        "Description": "أداة آلية تستخدم لعمل ثقوب في المواد المختلفة",
+        "image_path": "/static/images/drill.png",
+        "audio_path": "/static/audio/drill.mp3"
+    },
+    {
+        "English Term": "steel shoe",
+        "Arabic Translation": "حذاء فولاذي",
+        "Description": "قطعة فولاذية واقية تستخدم في المعدات الثقيلة",
+        "image_path": "/static/images/steel-shoe.png",
+        "audio_path": "/static/audio/steel-shoe.mp3"
+    },
+    {
+        "English Term": "chute",
+        "Arabic Translation": "مزلاق",
+        "Description": "قناة منحدرة لتوجيه حركة المواد للأسفل",
+        "image_path": "/static/images/chute.png",
+        "audio_path": "/static/audio/chute.mp3"
+    },
+    {
+        "English Term": "oil drain plug",
+        "Arabic Translation": "سدادة تصريف الزيت",
+        "Description": "قطعة تستخدم لتصريف الزيت من المحرك",
+        "image_path": "/static/images/oil-drain-plug.png",
+        "audio_path": "/static/audio/oil-drain-plug.mp3"
+    },
+    {
+        "English Term": "oil filler cap",
+        "Arabic Translation": "غطاء تعبئة الزيت",
+        "Description": "غطاء فتحة إضافة الزيت في المحرك",
+        "image_path": "/static/images/oil-filler-cap.png",
+        "audio_path": "/static/audio/oil-filler-cap.mp3"
+    },
+    {
+        "English Term": "propeller",
+        "Arabic Translation": "مروحة دفع",
+        "Description": "جهاز دوار يحول الطاقة الدورانية إلى قوة دفع",
+        "image_path": "/static/images/propeller.png",
+        "audio_path": "/static/audio/propeller.mp3"
+    },
+    {
+        "English Term": "chassis",
+        "Arabic Translation": "هيكل",
+        "Description": "الإطار الأساسي الذي يدعم المركبة أو الجهاز",
+        "image_path": "/static/images/chassis.png",
+        "audio_path": "/static/audio/chassis.mp3"
+    },
+    {
+        "English Term": "drive shaft",
+        "Arabic Translation": "عمود نقل الحركة",
+        "Description": "عمود يستخدم لنقل الحركة الدورانية من المحرك",
+        "image_path": "/static/images/drive-shaft.png",
+        "audio_path": "/static/audio/drive-shaft.mp3"
+    },
+    {
+        "English Term": "roller",
+        "Arabic Translation": "بكرة",
+        "Description": "أسطوانة دوارة تستخدم في نقل أو ضغط المواد",
+        "image_path": "/static/images/roller.png",
+        "audio_path": "/static/audio/roller.mp3"
+    },
+    {
+        "English Term": "weld",
+        "Arabic Translation": "لحام",
+        "Description": "عملية توصيل المعادن باستخدام الحرارة",
+        "image_path": "/static/images/weld.png",
+        "audio_path": "/static/audio/weld.mp3"
+    },
+    {
+        "English Term": "assembly line",
+        "Arabic Translation": "خط التجميع",
+        "Description": "نظام إنتاج متسلسل لتجميع المنتجات",
+        "image_path": "/static/images/assembly-line.png",
+        "audio_path": "/static/audio/assembly-line.mp3"
+    },
+    {
+        "English Term": "body shop",
+        "Arabic Translation": "ورشة هياكل السيارات",
+        "Description": "مكان متخصص في إصلاح وصيانة هياكل السيارات",
+        "image_path": "/static/images/body-shop.png",
+        "audio_path": "/static/audio/body-shop.mp3"
+    },
+    {
+        "English Term": "laser guide",
+        "Arabic Translation": "موجه ليزري",
+        "Description": "نظام توجيه دقيق يستخدم أشعة الليزر",
+        "image_path": "/static/images/laser-guide.png",
+        "audio_path": "/static/audio/laser-guide.mp3"
+    },
+    {
+        "English Term": "suspension",
+        "Arabic Translation": "نظام التعليق",
+        "Description": "نظام يمتص الصدمات ويحافظ على ثبات المركبة",
+        "image_path": "/static/images/suspension.png",
+        "audio_path": "/static/audio/suspension.mp3"
+    },
+    {
+        "English Term": "feed horn",
+        "Arabic Translation": "قرن التغذية",
+        "Description": "جزء من الهوائي يجمع أو يوجه الإشارات",
+        "image_path": "/static/images/feed-horn.png",
+        "audio_path": "/static/audio/feed-horn.mp3"
+    },
+    {
+        "English Term": "orbit",
+        "Arabic Translation": "مدار",
+        "Description": "المسار الذي يتبعه القمر الصناعي حول الأرض",
+        "image_path": "/static/images/orbit.png",
+        "audio_path": "/static/audio/orbit.mp3"
+    },
+    {
+        "English Term": "PC monitor",
+        "Arabic Translation": "شاشة الحاسوب",
+        "Description": "جهاز عرض مرئي للحاسوب",
+        "image_path": "/static/images/pc-monitor.png",
+        "audio_path": "/static/audio/pc-monitor.mp3"
+    },
+    {
+        "English Term": "transmit",
+        "Arabic Translation": "إرسال",
+        "Description": "عملية نقل البيانات أو الإشارات من نقطة إلى أخرى",
+        "image_path": "/static/images/transmit.png",
+        "audio_path": "/static/audio/transmit.mp3"
+    },
+    {
+        "English Term": "lock",
+        "Arabic Translation": "يقفل",
+        "Description": "تأمين أو إغلاق شيء بإحكام",
+        "image_path": "/static/images/lock.png",
+        "audio_path": "/static/audio/lock.mp3"
+    },
+    {
+        "English Term": "unlock",
+        "Arabic Translation": "يفتح القفل",
+        "Description": "فتح قفل أو إزالة التأمين",
+        "image_path": "/static/images/unlock.png",
+        "audio_path": "/static/audio/unlock.mp3"
+    },
+    {
+        "English Term": "start",
+        "Arabic Translation": "يبدأ",
+        "Description": "بدء تشغيل آلة أو عملية",
+        "image_path": "/static/images/start.png",
+        "audio_path": "/static/audio/start.mp3"
+    },
+    {
+        "English Term": "stop",
+        "Arabic Translation": "يوقف",
+        "Description": "إيقاف تشغيل آلة أو عملية",
+        "image_path": "/static/images/stop.png",
+        "audio_path": "/static/audio/stop.mp3"
+    },
+    {
+        "English Term": "accelerate",
+        "Arabic Translation": "يسرع",
+        "Description": "زيادة السرعة",
+        "image_path": "/static/images/accelerate.png",
+        "audio_path": "/static/audio/accelerate.mp3"
+    },
+    {
+        "English Term": "decelerate",
+        "Arabic Translation": "يبطئ",
+        "Description": "تخفيض السرعة",
+        "image_path": "/static/images/decelerate.png",
+        "audio_path": "/static/audio/decelerate.mp3"
+    },
+    {
+        "English Term": "install",
+        "Arabic Translation": "يثبّت",
+        "Description": "تركيب أو تثبيت برنامج أو جهاز",
+        "image_path": "/static/images/install.png",
+        "audio_path": "/static/audio/install.mp3"
+    },
+    {
+        "English Term": "uninstall",
+        "Arabic Translation": "يزيل التثبيت",
+        "Description": "إزالة برنامج أو جهاز مثبت",
+        "image_path": "/static/images/uninstall.png",
+        "audio_path": "/static/audio/uninstall.mp3"
+    },
+    {
+        "English Term": "compress",
+        "Arabic Translation": "يضغط",
+        "Description": "تقليل حجم شيء أو ملف",
+        "image_path": "/static/images/compress.png",
+        "audio_path": "/static/audio/compress.mp3"
+    },
+    {
+        "English Term": "decompress",
+        "Arabic Translation": "يفك الضغط",
+        "Description": "استعادة الحجم الأصلي لشيء أو ملف مضغوط",
+        "image_path": "/static/images/decompress.png",
+        "audio_path": "/static/audio/decompress.mp3"
+    },
+    {
+        "English Term": "enable",
+        "Arabic Translation": "يمكّن",
+        "Description": "تفعيل خاصية أو وظيفة",
+        "image_path": "/static/images/enable.png",
+        "audio_path": "/static/audio/enable.mp3"
+    },
+    {
+        "English Term": "disable",
+        "Arabic Translation": "يعطّل",
+        "Description": "إلغاء تفعيل خاصية أو وظيفة",
+        "image_path": "/static/images/disable.png",
+        "audio_path": "/static/audio/disable.mp3"
+    },
+    {
+        "English Term": "encrypt",
+        "Arabic Translation": "يشفّر",
+        "Description": "تحويل البيانات إلى شكل مشفر للحماية",
+        "image_path": "/static/images/encrypt.png",
+        "audio_path": "/static/audio/encrypt.mp3"
+    },
+    {
+        "English Term": "decrypt",
+        "Arabic Translation": "يفك التشفير",
+        "Description": "إعادة البيانات المشفرة إلى شكلها الأصلي",
+        "image_path": "/static/images/decrypt.png",
+        "audio_path": "/static/audio/decrypt.mp3"
+    },
+    {
+        "English Term": "maximize",
+        "Arabic Translation": "يكبّر",
+        "Description": "توسيع نافذة أو شاشة إلى أقصى حجم",
+        "image_path": "/static/images/maximize.png",
+        "audio_path": "/static/audio/maximize.mp3"
+    },
+    {
+        "English Term": "minimize",
+        "Arabic Translation": "يصغّر",
+        "Description": "تصغير نافذة أو شاشة إلى أدنى حجم",
+        "image_path": "/static/images/minimize.png",
+        "audio_path": "/static/audio/minimize.mp3"
+    },
+    {
+        "English Term": "upload",
+        "Arabic Translation": "يرفع (للشبكة)",
+        "Description": "إرسال البيانات من جهاز محلي إلى خادم أو شبكة",
+        "image_path": "/static/images/upload.png",
+        "audio_path": "/static/audio/upload.mp3"
+    },
+    {
+        "English Term": "download",
+        "Arabic Translation": "ينزّل (من الشبكة)",
+        "Description": "استقبال البيانات من خادم أو شبكة إلى جهاز محلي",
+        "image_path": "/static/images/download.png",
+        "audio_path": "/static/audio/download.mp3"
+    },
+    {
+        "English Term": "import",
+        "Arabic Translation": "يستورد",
+        "Description": "جلب بيانات أو وحدات برمجية من مصدر خارجي",
+        "image_path": "/static/images/import.png",
+        "audio_path": "/static/audio/import.mp3"
+    },
+    {
+        "English Term": "export",
+        "Arabic Translation": "يصدّر",
+        "Description": "إرسال بيانات أو وحدات برمجية إلى وجهة خارجية",
+        "image_path": "/static/images/export.png",
+        "audio_path": "/static/audio/export.mp3"
+    },
+    {
+        "English Term": "expand",
+        "Arabic Translation": "يوسّع",
+        "Description": "توسيع نطاق أو حجم شيء",
+        "image_path": "/static/images/expand.png",
+        "audio_path": "/static/audio/expand.mp3"
+    },
+    {
+        "English Term": "collapse",
+        "Arabic Translation": "يطوي",
+        "Description": "تقليص أو طي شيء إلى حجم أصغر",
+        "image_path": "/static/images/collapse.png",
+        "audio_path": "/static/audio/collapse.mp3"
+    },
+    {
+        "English Term": "merge",
+        "Arabic Translation": "يدمج",
+        "Description": "جمع عناصر منفصلة في عنصر واحد",
+        "image_path": "/static/images/merge.png",
+        "audio_path": "/static/audio/merge.mp3"
+    },
+    {
+        "English Term": "split",
+        "Arabic Translation": "يقسّم",
+        "Description": "تقسيم عنصر واحد إلى عدة عناصر",
+        "image_path": "/static/images/split.png",
+        "audio_path": "/static/audio/split.mp3"
+    },
+    {
+        "English Term": "sync",
+        "Arabic Translation": "يزامن",
+        "Description": "مزامنة البيانات بين أجهزة أو تطبيقات مختلفة",
+        "image_path": "/static/images/sync.png",
+        "audio_path": "/static/audio/sync.mp3"
+    },
+    {
+        "English Term": "desync",
+        "Arabic Translation": "يلغي المزامنة",
+        "Description": "إلغاء المزامنة بين الأجهزة أو التطبيقات",
+        "image_path": "/static/images/desync.png",
+        "audio_path": "/static/audio/desync.mp3"
+    },
+    {
+        "English Term": "debug",
+        "Arabic Translation": "يصلح الأخطاء",
+        "Description": "عملية اكتشاف وإصلاح الأخطاء في البرنامج",
+        "image_path": "/static/images/debug.png",
+        "audio_path": "/static/audio/debug.mp3"
+    },
+    {
+        "English Term": "inject",
+        "Arabic Translation": "يحقن",
+        "Description": "إدخال شيفرة أو بيانات في برنامج",
+        "image_path": "/static/images/inject.png",
+        "audio_path": "/static/audio/inject.mp3"
+    },
+    {
+        "English Term": "mute",
+        "Arabic Translation": "يكتم الصوت",
+        "Description": "إيقاف الصوت في جهاز أو تطبيق",
+        "image_path": "/static/images/mute.png",
+        "audio_path": "/static/audio/mute.mp3"
+    },
+    {
+        "English Term": "unmute",
+        "Arabic Translation": "يلغي كتم الصوت",
+        "Description": "تشغيل الصوت بعد كتمه",
+        "image_path": "/static/images/unmute.png",
+        "audio_path": "/static/audio/unmute.mp3"
+    },
+    {
+        "English Term": "zoom in",
+        "Arabic Translation": "يقرّب",
+        "Description": "تكبير عرض شيء للرؤية بتفاصيل أكثر",
+        "image_path": "/static/images/zoom-in.png",
+        "audio_path": "/static/audio/zoom-in.mp3"
+    },
+    {
+        "English Term": "zoom out",
+        "Arabic Translation": "يبعّد",
+        "Description": "تصغير عرض شيء لرؤية مساحة أكبر",
+        "image_path": "/static/images/zoom-out.png",
+        "audio_path": "/static/audio/zoom-out.mp3"
+    },
+    {
+        "English Term": "block",
+        "Arabic Translation": "يحظر",
+        "Description": "منع الوصول أو الاتصال",
+        "image_path": "/static/images/block.png",
+        "audio_path": "/static/audio/block.mp3"
+    },
+    {
+        "English Term": "unblock",
+        "Arabic Translation": "يلغي الحظر",
+        "Description": "السماح بالوصول أو الاتصال بعد الحظر",
+        "image_path": "/static/images/unblock.png",
+        "audio_path": "/static/audio/unblock.mp3"
+    },
+    {
+        "English Term": "charge",
+        "Arabic Translation": "يشحن",
+        "Description": "تزويد البطارية أو الجهاز بالطاقة الكهربائية",
+        "image_path": "/static/images/charge.png",
+        "audio_path": "/static/audio/charge.mp3"
+    },
+    {
+        "English Term": "discharge",
+        "Arabic Translation": "يفرّغ",
+        "Description": "استنفاد الطاقة الكهربائية من البطارية أو الجهاز",
+        "image_path": "/static/images/discharge.png",
+        "audio_path": "/static/audio/discharge.mp3"
+    },
+    {
+        "English Term": "fasten",
+        "Arabic Translation": "يثبّت",
+        "Description": "ربط أو تثبيت قطعة ميكانيكية",
+        "image_path": "/static/images/fasten.png",
+        "audio_path": "/static/audio/fasten.mp3"
+    },
+    {
+        "English Term": "unfasten",
+        "Arabic Translation": "يفك",
+        "Description": "فك أو إزالة التثبيت عن قطعة ميكانيكية",
+        "image_path": "/static/images/unfasten.png",
+        "audio_path": "/static/audio/unfasten.mp3"
+    },
+    {
+        "English Term": "wire",
+        "Arabic Translation": "يوصّل الأسلاك",
+        "Description": "توصيل الأسلاك الكهربائية",
+        "image_path": "/static/images/wire.png",
+        "audio_path": "/static/audio/wire.mp3"
+    },
+    {
+        "English Term": "unwire",
+        "Arabic Translation": "يفصل الأسلاك",
+        "Description": "فصل أو إزالة التوصيلات الكهربائية",
+        "image_path": "/static/images/unwire.png",
+        "audio_path": "/static/audio/unwire.mp3"
+    },
+    {
+        "English Term": "align",
+        "Arabic Translation": "يضبط المحاذاة",
+        "Description": "ضبط وضعية القطع الميكانيكية بشكل متناسق",
+        "image_path": "/static/images/align.png",
+        "audio_path": "/static/audio/align.mp3"
+    },
+    {
+        "English Term": "misalign",
+        "Arabic Translation": "يخرج عن المحاذاة",
+        "Description": "خروج القطع الميكانيكية عن الوضعية الصحيحة",
+        "image_path": "/static/images/misalign.png",
+        "audio_path": "/static/audio/misalign.mp3"
+    },
+    {
+        "English Term": "route",
+        "Arabic Translation": "يوجّه المسار",
+        "Description": "توجيه حركة البيانات في الشبكة",
+        "image_path": "/static/images/route.png",
+        "audio_path": "/static/audio/route.mp3"
+    },
+    {
+        "English Term": "reroute",
+        "Arabic Translation": "يغير المسار",
+        "Description": "تغيير مسار البيانات في الشبكة",
+        "image_path": "/static/images/reroute.png",
+        "audio_path": "/static/audio/reroute.mp3"
+    },
+    {
+        "English Term": "heat up",
+        "Arabic Translation": "يسخن",
+        "Description": "ارتفاع درجة حرارة الجهاز أو المعدة",
+        "image_path": "/static/images/heat-up.png",
+        "audio_path": "/static/audio/heat-up.mp3"
+    },
+    {
+        "English Term": "cool down",
+        "Arabic Translation": "يبرد",
+        "Description": "انخفاض درجة حرارة الجهاز أو المعدة",
+        "image_path": "/static/images/cool-down.png",
+        "audio_path": "/static/audio/cool-down.mp3"
+    },
+    {
+        "English Term": "troubleshoot",
+        "Arabic Translation": "يستكشف المشكلة",
+        "Description": "عملية البحث عن سبب المشكلة وحلها",
+        "image_path": "/static/images/troubleshoot.png",
+        "audio_path": "/static/audio/troubleshoot.mp3"
+    },
+    {
+        "English Term": "resolve",
+        "Arabic Translation": "يحل المشكلة",
+        "Description": "إيجاد وتطبيق حل للمشكلة",
+        "image_path": "/static/images/resolve.png",
+        "audio_path": "/static/audio/resolve.mp3"
+    },
+    {
+        "English Term": "bridge",
+        "Arabic Translation": "يربط الشبكات",
+        "Description": "توصيل شبكتين أو أكثر معاً",
+        "image_path": "/static/images/bridge.png",
+        "audio_path": "/static/audio/bridge.mp3"
+    },
+    {
+        "English Term": "isolate",
+        "Arabic Translation": "يعزل الشبكات",
+        "Description": "فصل شبكة عن الشبكات الأخرى",
+        "image_path": "/static/images/isolate.png",
+        "audio_path": "/static/audio/isolate.mp3"
+    },
+    {
+        "English Term": "calibrate",
+        "Arabic Translation": "يعاير",
+        "Description": "ضبط وتعيير الأجهزة والمعدات",
+        "image_path": "/static/images/calibrate.png",
+        "audio_path": "/static/audio/calibrate.mp3"
+    },
+    {
+        "English Term": "decalibrate",
+        "Arabic Translation": "يفقد المعايرة",
+        "Description": "خروج الأجهزة والمعدات عن الضبط الصحيح",
+        "image_path": "/static/images/decalibrate.png",
+        "audio_path": "/static/audio/decalibrate.mp3"
+    },
+    {
+        "English Term": "overhaul",
+        "Arabic Translation": "يجري صيانة شاملة",
+        "Description": "إجراء صيانة كاملة وشاملة للآلة أو المعدة",
+        "image_path": "/static/images/overhaul.png",
+        "audio_path": "/static/audio/overhaul.mp3"
+    },
+    {
+        "English Term": "inspect",
+        "Arabic Translation": "يفحص",
+        "Description": "فحص وتقييم حالة المعدات أو الأجهزة",
+        "image_path": "/static/images/inspect.png",
+        "audio_path": "/static/audio/inspect.mp3"
+    },
+    {
+        "English Term": "diagnose",
+        "Arabic Translation": "يشخّص",
+        "Description": "تحديد سبب العطل أو المشكلة",
+        "image_path": "/static/images/diagnose.png",
+        "audio_path": "/static/audio/diagnose.mp3"
+    },
+    {
+        "English Term": "repair",
+        "Arabic Translation": "يصلح",
+        "Description": "إصلاح العطل أو الخلل",
+        "image_path": "/static/images/repair.png",
+        "audio_path": "/static/audio/repair.mp3"
+    },
+    {
+        "English Term": "lubricate",
+        "Arabic Translation": "يزيّت",
+        "Description": "تزييت الأجزاء المتحركة في الآلة",
+        "image_path": "/static/images/lubricate.png",
+        "audio_path": "/static/audio/lubricate.mp3"
+    },
+    {
+        "English Term": "dehydrate",
+        "Arabic Translation": "يجفف",
+        "Description": "إزالة الرطوبة أو السوائل",
+        "image_path": "/static/images/dehydrate.png",
+        "audio_path": "/static/audio/dehydrate.mp3"
+    },
+    {
+        "English Term": "ground",
+        "Arabic Translation": "يؤرّض",
+        "Description": "توصيل الدائرة الكهربائية بالأرض للحماية",
+        "image_path": "/static/images/ground.png",
+        "audio_path": "/static/audio/ground.mp3"
+    },
+    {
+        "English Term": "insulate",
+        "Arabic Translation": "يعزل",
+        "Description": "عزل التوصيلات الكهربائية أو الحرارية",
+        "image_path": "/static/images/insulate.png",
+        "audio_path": "/static/audio/insulate.mp3"
+    },
+    {
+        "English Term": "tune up",
+        "Arabic Translation": "يضبط الأداء",
+        "Description": "ضبط وتحسين أداء المحرك أو الجهاز",
+        "image_path": "/static/images/tune-up.png",
+        "audio_path": "/static/audio/tune-up.mp3"
+    },
+    {
+        "English Term": "configure",
+        "Arabic Translation": "يهيئ",
+        "Description": "إعداد وتهيئة النظام أو الجهاز",
+        "image_path": "/static/images/configure.png",
+        "audio_path": "/static/audio/configure.mp3"
+    },
+    {
+        "English Term": "patch",
+        "Arabic Translation": "يرقع",
+        "Description": "إصلاح مؤقت أو جزئي لمشكلة",
+        "image_path": "/static/images/patch.png",
+        "audio_path": "/static/audio/patch.mp3"
+    },
+    {
+        "English Term": "bypass",
+        "Arabic Translation": "يتجاوز",
+        "Description": "تجاوز جزء معطل في النظام",
+        "image_path": "/static/images/bypass.png",
+        "audio_path": "/static/audio/bypass.mp3"
+    },
+    {
+        "English Term": "filter",
+        "Arabic Translation": "يصفي",
+        "Description": "إزالة الشوائب أو المواد غير المرغوب فيها",
+        "image_path": "/static/images/filter.png",
+        "audio_path": "/static/audio/filter.mp3"
+    },
+    {
+        "English Term": "clog",
+        "Arabic Translation": "ينسد",
+        "Description": "انسداد المسار أو المجرى",
+        "image_path": "/static/images/clog.png",
+        "audio_path": "/static/audio/clog.mp3"
+    },
+    {
+        "English Term": "terminate",
+        "Arabic Translation": "ينهي التوصيل",
+        "Description": "إنهاء توصيل الكابل أو السلك",
+        "image_path": "/static/images/terminate.png",
+        "audio_path": "/static/audio/terminate.mp3"
+    },
+    {
+        "English Term": "splice",
+        "Arabic Translation": "يوصل الأسلاك",
+        "Description": "ربط سلكين أو كابلين معاً",
+        "image_path": "/static/images/splice.png",
+        "audio_path": "/static/audio/splice.mp3"
+    },
+    {
+        "English Term": "mount",
+        "Arabic Translation": "يثبّت",
+        "Description": "تثبيت جهاز أو قطعة في مكانها",
+        "image_path": "/static/images/mount.png",
+        "audio_path": "/static/audio/mount.mp3"
+    },
+    {
+        "English Term": "dismount",
+        "Arabic Translation": "يفك التثبيت",
+        "Description": "إزالة جهاز أو قطعة من مكانها",
+        "image_path": "/static/images/dismount.png",
+        "audio_path": "/static/audio/dismount.mp3"
+    },
+    {
+        "English Term": "seal",
+        "Arabic Translation": "يختم",
+        "Description": "إغلاق محكم لمنع التسرب",
+        "image_path": "/static/images/seal.png",
+        "audio_path": "/static/audio/seal.mp3"
+    },
+    {
+        "English Term": "leak",
+        "Arabic Translation": "يسرّب",
+        "Description": "تسرب السوائل أو الغازات",
+        "image_path": "/static/images/leak.png",
+        "audio_path": "/static/audio/leak.mp3"
+    },
+    {
+        "English Term": "pressurize",
+        "Arabic Translation": "يضغط",
+        "Description": "زيادة الضغط في نظام أو خط أنابيب",
+        "image_path": "/static/images/pressurize.png",
+        "audio_path": "/static/audio/pressurize.mp3"
+    },
+    {
+        "English Term": "depressurize",
+        "Arabic Translation": "يخفف الضغط",
+        "Description": "تخفيض الضغط في نظام أو خط أنابيب",
+        "image_path": "/static/images/depressurize.png",
+        "audio_path": "/static/audio/depressurize.mp3"
+    },
+    {
+        "English Term": "ventilate",
+        "Arabic Translation": "يهوّي",
+        "Description": "توفير تدفق الهواء في مساحة مغلقة",
+        "image_path": "/static/images/ventilate.png",
+        "audio_path": "/static/audio/ventilate.mp3"
+    },
+    {
+        "English Term": "circulate",
+        "Arabic Translation": "يدوّر",
+        "Description": "تحريك السوائل أو الهواء في دورة",
+        "image_path": "/static/images/circulate.png",
+        "audio_path": "/static/audio/circulate.mp3"
+    },
+    {
+        "English Term": "drain",
+        "Arabic Translation": "يصرّف",
+        "Description": "تفريغ السوائل من نظام أو خزان",
+        "image_path": "/static/images/drain.png",
+        "audio_path": "/static/audio/drain.mp3"
+    },
+    {
+        "English Term": "fill",
+        "Arabic Translation": "يملأ",
+        "Description": "تعبئة نظام أو خزان بالسوائل",
+        "image_path": "/static/images/fill.png",
+        "audio_path": "/static/audio/fill.mp3"
+    },
+    {
+        "English Term": "purge",
+        "Arabic Translation": "يطهّر",
+        "Description": "تنظيف النظام من الهواء أو الشوائب",
+        "image_path": "/static/images/purge.png",
+        "audio_path": "/static/audio/purge.mp3"
+    },
+    {
+        "English Term": "contaminate",
+        "Arabic Translation": "يلوّث",
+        "Description": "تلوث النظام بمواد غير مرغوب فيها",
+        "image_path": "/static/images/contaminate.png",
+        "audio_path": "/static/audio/contaminate.mp3"
+    },
+    {
+        "English Term": "throttle",
+        "Arabic Translation": "يتحكم بالتدفق",
+        "Description": "التحكم في معدل تدفق السوائل أو الغازات",
+        "image_path": "/static/images/throttle.png",
+        "audio_path": "/static/audio/throttle.mp3"
+    },
+    {
+        "English Term": "regulate",
+        "Arabic Translation": "ينظّم",
+        "Description": "ضبط وتنظيم معدل التدفق أو الضغط",
+        "image_path": "/static/images/regulate.png",
+        "audio_path": "/static/audio/regulate.mp3"
+    },
+    {
+        "English Term": "evacuate",
+        "Arabic Translation": "يفرّغ الهواء",
+        "Description": "إزالة الهواء من نظام التبريد",
+        "image_path": "/static/images/evacuate.png",
+        "audio_path": "/static/audio/evacuate.mp3"
+    },
+    {
+        "English Term": "charge",
+        "Arabic Translation": "يشحن بالغاز",
+        "Description": "تعبئة نظام التبريد بغاز التبريد",
+        "image_path": "/static/images/charge-gas.png",
+        "audio_path": "/static/audio/charge-gas.mp3"
+    },
+    {
+        "English Term": "bleed",
+        "Arabic Translation": "ينزف الهواء",
+        "Description": "إخراج الهواء المحبوس من النظام",
+        "image_path": "/static/images/bleed.png",
+        "audio_path": "/static/audio/bleed.mp3"
+    },
+    {
+        "English Term": "prime",
+        "Arabic Translation": "يجهّز",
+        "Description": "تجهيز المضخة للعمل بملئها بالسائل",
+        "image_path": "/static/images/prime.png",
+        "audio_path": "/static/audio/prime.mp3"
+    },
+    {
+        "English Term": "flush",
+        "Arabic Translation": "يشطف",
+        "Description": "تنظيف النظام بدفع سائل التنظيف خلاله",
+        "image_path": "/static/images/flush.png",
+        "audio_path": "/static/audio/flush.mp3"
+    },
+    {
+        "English Term": "balance",
+        "Arabic Translation": "يوازن",
+        "Description": "ضبط توزيع الحمل أو التدفق بشكل متساوٍ",
+        "image_path": "/static/images/balance.png",
+        "audio_path": "/static/audio/balance.mp3"
+    },
+    {
+        "English Term": "vent",
+        "Arabic Translation": "ينفّس",
+        "Description": "السماح بخروج الهواء أو البخار من النظام",
+        "image_path": "/static/images/vent.png",
+        "audio_path": "/static/audio/vent.mp3"
+    },
+    {
+        "English Term": "isolate",
+        "Arabic Translation": "يعزل",
+        "Description": "فصل جزء من النظام عن باقي الأجزاء",
+        "image_path": "/static/images/isolate-system.png",
+        "audio_path": "/static/audio/isolate-system.mp3"
+    },
+    {
+        "English Term": "pull out",
+        "Arabic Translation": "يسحب للخارج",
+        "Description": "سحب شيء من موضعه إلى الخارج",
+        "image_path": "/static/images/pull-out.png",
+        "audio_path": "/static/audio/pull-out.mp3"
+    },
+    {
+        "English Term": "push in",
+        "Arabic Translation": "يدفع للداخل",
+        "Description": "دفع شيء إلى الداخل",
+        "image_path": "/static/images/push-in.png",
+        "audio_path": "/static/audio/push-in.mp3"
+    },
+    {
+        "English Term": "put on",
+        "Arabic Translation": "يرتدي/يضع",
+        "Description": "ارتداء أو وضع شيء",
+        "image_path": "/static/images/put-on.png",
+        "audio_path": "/static/audio/put-on.mp3"
+    },
+    {
+        "English Term": "switch off",
+        "Arabic Translation": "يطفئ",
+        "Description": "إيقاف تشغيل جهاز أو آلة",
+        "image_path": "/static/images/switch-off.png",
+        "audio_path": "/static/audio/switch-off.mp3"
+    },
+    {
+        "English Term": "switch on",
+        "Arabic Translation": "يشغّل",
+        "Description": "بدء تشغيل جهاز أو آلة",
+        "image_path": "/static/images/switch-on.png",
+        "audio_path": "/static/audio/switch-on.mp3"
+    },
+    {
+        "English Term": "take away",
+        "Arabic Translation": "يزيل",
+        "Description": "إزالة شيء من مكانه",
+        "image_path": "/static/images/take-away.png",
+        "audio_path": "/static/audio/take-away.mp3"
+    },
+    {
+        "English Term": "take off",
+        "Arabic Translation": "يخلع/ينزع",
+        "Description": "إزالة شيء مرتدى أو مثبت",
+        "image_path": "/static/images/take-off.png",
+        "audio_path": "/static/audio/take-off.mp3"
+    },
+    {
+        "English Term": "turn off",
+        "Arabic Translation": "يوقف",
+        "Description": "إيقاف تشغيل جهاز أو نظام",
+        "image_path": "/static/images/turn-off.png",
+        "audio_path": "/static/audio/turn-off.mp3"
+    },
+    {
+        "English Term": "turn on",
+        "Arabic Translation": "يشغل",
+        "Description": "بدء تشغيل جهاز أو نظام",
+        "image_path": "/static/images/turn-on.png",
+        "audio_path": "/static/audio/turn-on.mp3"
+    },
+    {
+        "English Term": "lift up",
+        "Arabic Translation": "يرفع لأعلى",
+        "Description": "رفع شيء إلى الأعلى",
+        "image_path": "/static/images/lift-up.png",
+        "audio_path": "/static/audio/lift-up.mp3"
+    },
+    {
+        "English Term": "pick up",
+        "Arabic Translation": "يلتقط",
+        "Description": "التقاط شيء من الأرض أو سطح ما",
+        "image_path": "/static/images/pick-up.png",
+        "audio_path": "/static/audio/pick-up.mp3"
+    },
+    {
+        "English Term": "put down",
+        "Arabic Translation": "يضع لأسفل",
+        "Description": "وضع شيء على سطح أو الأرض",
+        "image_path": "/static/images/put-down.png",
+        "audio_path": "/static/audio/put-down.mp3"
+    },
+    {
+        "English Term": "put together",
+        "Arabic Translation": "يجمع",
+        "Description": "تجميع أجزاء لتشكيل شيء كامل",
+        "image_path": "/static/images/put-together.png",
+        "audio_path": "/static/audio/put-together.mp3"
+    },
+    {
+        "English Term": "take apart",
+        "Arabic Translation": "يفكك",
+        "Description": "فصل شيء إلى أجزائه المكونة",
+        "image_path": "/static/images/take-apart.png",
+        "audio_path": "/static/audio/take-apart.mp3"
+    },
+    {
+        "English Term": "take out",
+        "Arabic Translation": "يخرج",
+        "Description": "إخراج شيء من موضعه",
+        "image_path": "/static/images/take-out.png",
+        "audio_path": "/static/audio/take-out.mp3"
+    },
+    {
+        "English Term": "almost done",
+        "Arabic Translation": "تقريباً انتهى",
+        "Description": "قرب الانتهاء من العمل أو المهمة",
+        "image_path": "/static/images/almost-done.png",
+        "audio_path": "/static/audio/almost-done.mp3"
+    },
+    {
+        "English Term": "hang on",
+        "Arabic Translation": "انتظر",
+        "Description": "طلب الانتظار لفترة قصيرة",
+        "image_path": "/static/images/hang-on.png",
+        "audio_path": "/static/audio/hang-on.mp3"
+    },
+    {
+        "English Term": "just a minute",
+        "Arabic Translation": "دقيقة واحدة",
+        "Description": "طلب الانتظار لمدة دقيقة",
+        "image_path": "/static/images/just-a-minute.png",
+        "audio_path": "/static/audio/just-a-minute.mp3"
+    },
+    {
+        "English Term": "nearly finished",
+        "Arabic Translation": "قارب على الانتهاء",
+        "Description": "اقتراب موعد إنهاء العمل",
+        "image_path": "/static/images/nearly-finished.png",
+        "audio_path": "/static/audio/nearly-finished.mp3"
+    },
+    {
+        "English Term": "one minute",
+        "Arabic Translation": "دقيقة واحدة",
+        "Description": "مدة زمنية قدرها دقيقة واحدة",
+        "image_path": "/static/images/one-minute.png",
+        "audio_path": "/static/audio/one-minute.mp3"
+    },
+    {
+        "English Term": "device",
+        "Arabic Translation": "جهاز",
+        "Description": "آلة أو أداة تؤدي وظيفة معينة",
+        "image_path": "/static/images/device.png",
+        "audio_path": "/static/audio/device.mp3"
+    },
+    {
+        "English Term": "laser beam",
+        "Arabic Translation": "شعاع ليزر",
+        "Description": "شعاع ضوئي مركز عالي الطاقة",
+        "image_path": "/static/images/laser-beam.png",
+        "audio_path": "/static/audio/laser-beam.mp3"
+    },
+    {
+        "English Term": "outboard motor",
+        "Arabic Translation": "محرك خارجي",
+        "Description": "محرك يثبت خارج القارب",
+        "image_path": "/static/images/outboard-motor.png",
+        "audio_path": "/static/audio/outboard-motor.mp3"
+    },
+    {
+        "English Term": "ticket machine",
+        "Arabic Translation": "آلة التذاكر",
+        "Description": "جهاز لبيع أو طباعة التذاكر",
+        "image_path": "/static/images/ticket-machine.png",
+        "audio_path": "/static/audio/ticket-machine.mp3"
+    },
+    {
+        "English Term": "water heater",
+        "Arabic Translation": "سخان ماء",
+        "Description": "جهاز لتسخين الماء",
+        "image_path": "/static/images/water-heater.png",
+        "audio_path": "/static/audio/water-heater.mp3"
+    },
+    {
+        "English Term": "water valve",
+        "Arabic Translation": "صمام ماء",
+        "Description": "صمام للتحكم في تدفق الماء",
+        "image_path": "/static/images/water-valve.png",
+        "audio_path": "/static/audio/water-valve.mp3"
+    },
+    {
+        "English Term": "handset",
+        "Arabic Translation": "سماعة",
+        "Description": "الجزء المحمول من الهاتف",
+        "image_path": "/static/images/handset.png",
+        "audio_path": "/static/audio/handset.mp3"
+    },
+    {
+        "English Term": "accelerator",
+        "Arabic Translation": "دواسة الوقود",
+        "Description": "دواسة التحكم في سرعة المركبة",
+        "image_path": "/static/images/accelerator.png",
+        "audio_path": "/static/audio/accelerator.mp3"
+    },
+    {
+        "English Term": "dial",
+        "Arabic Translation": "قرص الاتصال",
+        "Description": "أداة دائرية للضبط أو الاختيار",
+        "image_path": "/static/images/dial.png",
+        "audio_path": "/static/audio/dial.mp3"
+    },
+    {
+        "English Term": "emergency stop",
+        "Arabic Translation": "إيقاف طارئ",
+        "Description": "زر أو آلية للإيقاف الفوري في حالات الطوارئ",
+        "image_path": "/static/images/emergency-stop.png",
+        "audio_path": "/static/audio/emergency-stop.mp3"
+    },
+    {
+        "English Term": "sensor",
+        "Arabic Translation": "مستشعر",
+        "Description": "جهاز يكتشف ويقيس التغيرات في البيئة المحيطة",
+        "image_path": "/static/images/sensor.png",
+        "audio_path": "/static/audio/sensor.mp3"
+    },
+    {
+        "English Term": "robot",
+        "Arabic Translation": "روبوت",
+        "Description": "آلة مبرمجة تقوم بمهام محددة بشكل آلي",
+        "image_path": "/static/images/robot.png",
+        "audio_path": "/static/audio/robot.mp3"
+    },
+    {
+        "English Term": "camera",
+        "Arabic Translation": "كاميرا",
+        "Description": "جهاز لالتقاط الصور أو تسجيل الفيديو",
+        "image_path": "/static/images/camera.png",
+        "audio_path": "/static/audio/camera.mp3"
+    },
+    {
+        "English Term": "detect",
+        "Arabic Translation": "يكتشف",
+        "Description": "تحديد أو رصد وجود شيء ما",
+        "image_path": "/static/images/detect.png",
+        "audio_path": "/static/audio/detect.mp3"
+    },
+    {
+        "English Term": "locate",
+        "Arabic Translation": "يحدد الموقع",
+        "Description": "تحديد مكان أو موقع شيء ما",
+        "image_path": "/static/images/locate.png",
+        "audio_path": "/static/audio/locate.mp3"
+    },
+    {
+        "English Term": "receiver",
+        "Arabic Translation": "مستقبِل",
+        "Description": "جهاز يستقبل ويعالج الإشارات الإلكترونية",
+        "image_path": "/static/images/receiver.png",
+        "audio_path": "/static/audio/receiver.mp3"
+    },
+    {
+        "English Term": "technology",
+        "Arabic Translation": "تقنية",
+        "Description": "تطبيق المعرفة العلمية لأغراض عملية",
+        "image_path": "/static/images/technology.png",
+        "audio_path": "/static/audio/technology.mp3"
+    },
+    {
+        "English Term": "wireless",
+        "Arabic Translation": "لاسلكي",
+        "Description": "نقل البيانات أو الطاقة دون استخدام أسلاك",
+        "image_path": "/static/images/wireless.png",
+        "audio_path": "/static/audio/wireless.mp3"
+    },
+    {
+        "English Term": "communications satellite",
+        "Arabic Translation": "قمر اتصالات صناعي",
+        "Description": "قمر صناعي يستخدم لنقل إشارات الاتصالات",
+        "image_path": "/static/images/communications-satellite.png",
+        "audio_path": "/static/audio/communications-satellite.mp3"
+    },
+    {
+        "English Term": "frequency",
+        "Arabic Translation": "تردد",
+        "Description": "عدد الذبذبات في وحدة الزمن",
+        "image_path": "/static/images/frequency.png",
+        "audio_path": "/static/audio/frequency.mp3"
+    },
+    {
+        "English Term": "satellite dish",
+        "Arabic Translation": "طبق استقبال فضائي",
+        "Description": "هوائي على شكل طبق لاستقبال إشارات الأقمار الصناعية",
+        "image_path": "/static/images/satellite-dish.png",
+        "audio_path": "/static/audio/satellite-dish.mp3"
+    },
+    {
+        "English Term": "convert",
+        "Arabic Translation": "يحوّل",
+        "Description": "تغيير شكل أو نوع شيء إلى شكل أو نوع آخر",
+        "image_path": "/static/images/convert.png",
+        "audio_path": "/static/audio/convert.mp3"
+    },
+    {
+        "English Term": "digital TV card",
+        "Arabic Translation": "بطاقة التلفاز الرقمي",
+        "Description": "جهاز لاستقبال إشارات التلفاز الرقمي",
+        "image_path": "/static/images/digital-tv-card.png",
+        "audio_path": "/static/audio/digital-tv-card.mp3"
+    },
+    {
+        "English Term": "high frequency",
+        "Arabic Translation": "تردد عالي",
+        "Description": "تردد ذو قيمة عالية في الطيف الكهرومغناطيسي",
+        "image_path": "/static/images/high-frequency.png",
+        "audio_path": "/static/audio/high-frequency.mp3"
+    },
+    {
+        "English Term": "low frequency",
+        "Arabic Translation": "تردد منخفض",
+        "Description": "تردد ذو قيمة منخفضة في الطيف الكهرومغناطيسي",
+        "image_path": "/static/images/low-frequency.png",
+        "audio_path": "/static/audio/low-frequency.mp3"
+    },
+    {
+        "English Term": "crate",
+        "Arabic Translation": "صندوق خشبي",
+        "Description": "حاوية خشبية لتخزين ونقل البضائع",
+        "image_path": "/static/images/crate.png",
+        "audio_path": "/static/audio/crate.mp3"
+    },
+    {
+        "English Term": "fork",
+        "Arabic Translation": "شوكة",
+        "Description": "الجزء الأمامي من الرافعة الشوكية",
+        "image_path": "/static/images/fork.png",
+        "audio_path": "/static/audio/fork.mp3"
+    },
+    {
+        "English Term": "hand truck",
+        "Arabic Translation": "عربة يدوية",
+        "Description": "عربة يدوية لنقل البضائع والصناديق",
+        "image_path": "/static/images/hand-truck.png",
+        "audio_path": "/static/audio/hand-truck.mp3"
+    },
+    {
+        "English Term": "pallet",
+        "Arabic Translation": "منصة تحميل",
+        "Description": "منصة خشبية أو بلاستيكية لتحميل البضائع",
+        "image_path": "/static/images/pallet.png",
+        "audio_path": "/static/audio/pallet.mp3"
+    },
+    {
+        "English Term": "ramp",
+        "Arabic Translation": "منحدر",
+        "Description": "سطح مائل للتحميل والتفريغ",
+        "image_path": "/static/images/ramp.png",
+        "audio_path": "/static/audio/ramp.mp3"
+    },
+    {
+        "English Term": "shelf",
+        "Arabic Translation": "رف",
+        "Description": "سطح أفقي لتخزين البضائع",
+        "image_path": "/static/images/shelf.png",
+        "audio_path": "/static/audio/shelf.mp3"
+    },
+    {
+        "English Term": "warehouse",
+        "Arabic Translation": "مستودع",
+        "Description": "مبنى كبير لتخزين البضائع",
+        "image_path": "/static/images/warehouse.png",
+        "audio_path": "/static/audio/warehouse.mp3"
+    },
+    {
+        "English Term": "aisle",
+        "Arabic Translation": "ممر",
+        "Description": "ممر بين الرفوف في المستودع",
+        "image_path": "/static/images/aisle.png",
+        "audio_path": "/static/audio/aisle.mp3"
+    },
+    {
+        "English Term": "blockage",
+        "Arabic Translation": "انسداد",
+        "Description": "عائق يمنع المرور أو التدفق",
+        "image_path": "/static/images/blockage.png",
+        "audio_path": "/static/audio/blockage.mp3"
+    },
+    {
+        "English Term": "chain",
+        "Arabic Translation": "سلسلة",
+        "Description": "سلسلة معدنية للربط أو الرفع",
+        "image_path": "/static/images/chain.png",
+        "audio_path": "/static/audio/chain.mp3"
+    },
+    {
+        "English Term": "overload",
+        "Arabic Translation": "يفرط في التحميل",
+        "Description": "تحميل أكثر من الحد المسموح",
+        "image_path": "/static/images/overload.png",
+        "audio_path": "/static/audio/overload.mp3"
+    },
+    {
+        "English Term": "stack",
+        "Arabic Translation": "يكدّس",
+        "Description": "وضع الأشياء فوق بعضها البعض",
+        "image_path": "/static/images/stack.png",
+        "audio_path": "/static/audio/stack.mp3"
+    },
+    {
+        "English Term": "strap",
+        "Arabic Translation": "حزام",
+        "Description": "شريط لربط وتثبيت البضائع",
+        "image_path": "/static/images/strap.png",
+        "audio_path": "/static/audio/strap.mp3"
+    },
+    {
+        "English Term": "attend to",
+        "Arabic Translation": "يعتني بـ",
+        "Description": "تقديم الرعاية أو المساعدة لشخص ما",
+        "image_path": "/static/images/attend-to.png",
+        "audio_path": "/static/audio/attend-to.mp3"
+    },
+    {
+        "English Term": "authorise",
+        "Arabic Translation": "يصرّح",
+        "Description": "منح الإذن أو التصريح الرسمي",
+        "image_path": "/static/images/authorise.png",
+        "audio_path": "/static/audio/authorise.mp3"
+    },
+    {
+        "English Term": "calm",
+        "Arabic Translation": "هادئ",
+        "Description": "حالة من الهدوء وعدم الانفعال",
+        "image_path": "/static/images/calm.png",
+        "audio_path": "/static/audio/calm.mp3"
+    },
+    {
+        "English Term": "cardio-pulmonary resuscitation",
+        "Arabic Translation": "الإنعاش القلبي الرئوي",
+        "Description": "إجراء طبي طارئ لإنعاش القلب والرئتين",
+        "image_path": "/static/images/cpr.png",
+        "audio_path": "/static/audio/cpr.mp3"
+    },
+    {
+        "English Term": "chemical spill",
+        "Arabic Translation": "انسكاب كيميائي",
+        "Description": "تسرب مواد كيميائية خطرة",
+        "image_path": "/static/images/chemical-spill.png",
+        "audio_path": "/static/audio/chemical-spill.mp3"
+    },
+    {
+        "English Term": "evacuation",
+        "Arabic Translation": "إخلاء",
+        "Description": "خروج منظم من مكان خطر",
+        "image_path": "/static/images/evacuation.png",
+        "audio_path": "/static/audio/evacuation.mp3"
+    },
+    {
+        "English Term": "first aid",
+        "Arabic Translation": "إسعافات أولية",
+        "Description": "المساعدة الطبية الأولية في حالات الطوارئ",
+        "image_path": "/static/images/first-aid.png",
+        "audio_path": "/static/audio/first-aid.mp3"
+    },
+    {
+        "English Term": "pulse",
+        "Arabic Translation": "نبض",
+        "Description": "نبضات القلب التي يمكن قياسها",
+        "image_path": "/static/images/pulse.png",
+        "audio_path": "/static/audio/pulse.mp3"
+    },
+    {
+        "English Term": "recovery position",
+        "Arabic Translation": "وضعية الإفاقة",
+        "Description": "وضعية آمنة للمصاب فاقد الوعي",
+        "image_path": "/static/images/recovery-position.png",
+        "audio_path": "/static/audio/recovery-position.mp3"
+    },
+    {
+        "English Term": "artificial respiration",
+        "Arabic Translation": "تنفس اصطناعي",
+        "Description": "إجراء لمساعدة شخص على التنفس",
+        "image_path": "/static/images/artificial-respiration.png",
+        "audio_path": "/static/audio/artificial-respiration.mp3"
+    },
+    {
+        "English Term": "casualty",
+        "Arabic Translation": "مصاب",
+        "Description": "شخص تعرض لإصابة أو حادث",
+        "image_path": "/static/images/casualty.png",
+        "audio_path": "/static/audio/casualty.mp3"
+    },
+    {
+        "English Term": "oxygen",
+        "Arabic Translation": "أكسجين",
+        "Description": "غاز ضروري للتنفس والحياة",
+        "image_path": "/static/images/oxygen.png",
+        "audio_path": "/static/audio/oxygen.mp3"
+    },
+    {
+        "English Term": "secure",
+        "Arabic Translation": "يؤمّن",
+        "Description": "جعل شيء آمناً أو محمياً",
+        "image_path": "/static/images/secure.png",
+        "audio_path": "/static/audio/secure.mp3"
+    },
+    {
+        "English Term": "wet suit",
+        "Arabic Translation": "بدلة غوص",
+        "Description": "ملابس خاصة للحماية في الماء",
+        "image_path": "/static/images/wet-suit.png",
+        "audio_path": "/static/audio/wet-suit.mp3"
+    },
+    {
+        "English Term": "procedure",
+        "Arabic Translation": "إجراء",
+        "Description": "سلسلة خطوات محددة لتنفيذ مهمة",
+        "image_path": "/static/images/procedure.png",
+        "audio_path": "/static/audio/procedure.mp3"
+    },
+    {
+        "English Term": "flyover",
+        "Arabic Translation": "جسر علوي",
+        "Description": "جسر يمر فوق طريق آخر",
+        "image_path": "/static/images/flyover.png",
+        "audio_path": "/static/audio/flyover.mp3"
+    },
+    {
+        "English Term": "gantry",
+        "Arabic Translation": "جسر معلق",
+        "Description": "هيكل معدني يستخدم لحمل المعدات أو اللافتات",
+        "image_path": "/static/images/gantry.png",
+        "audio_path": "/static/audio/gantry.mp3"
+    },
+    {
+        "English Term": "motorway",
+        "Arabic Translation": "طريق سريع",
+        "Description": "طريق رئيسي سريع متعدد المسارات",
+        "image_path": "/static/images/motorway.png",
+        "audio_path": "/static/audio/motorway.mp3"
+    },
+    {
+        "English Term": "roundabout",
+        "Arabic Translation": "دوار",
+        "Description": "تقاطع دائري للطرق",
+        "image_path": "/static/images/roundabout.png",
+        "audio_path": "/static/audio/roundabout.mp3"
+    },
+    {
+        "English Term": "slip road",
+        "Arabic Translation": "طريق انزلاقي",
+        "Description": "طريق للدخول إلى أو الخروج من الطريق السريع",
+        "image_path": "/static/images/slip-road.png",
+        "audio_path": "/static/audio/slip-road.mp3"
+    },
+    {
+        "English Term": "underpass",
+        "Arabic Translation": "نفق",
+        "Description": "ممر يمر تحت طريق آخر",
+        "image_path": "/static/images/underpass.png",
+        "audio_path": "/static/audio/underpass.mp3"
+    },
+    {
+        "English Term": "crossroads",
+        "Arabic Translation": "تقاطع طرق",
+        "Description": "نقطة تقاطع طريقين أو أكثر",
+        "image_path": "/static/images/crossroads.png",
+        "audio_path": "/static/audio/crossroads.mp3"
+    },
+    {
+        "English Term": "traffic lights",
+        "Arabic Translation": "إشارات مرور",
+        "Description": "أضواء للتحكم في حركة المرور",
+        "image_path": "/static/images/traffic-lights.png",
+        "audio_path": "/static/audio/traffic-lights.mp3"
+    },
+    {
+        "English Term": "turning",
+        "Arabic Translation": "منعطف",
+        "Description": "نقطة تغيير اتجاه الطريق",
+        "image_path": "/static/images/turning.png",
+        "audio_path": "/static/audio/turning.mp3"
+    },
+    {
+        "English Term": "sketch map",
+        "Arabic Translation": "خريطة تخطيطية",
+        "Description": "رسم تخطيطي يوضح المواقع والاتجاهات",
+        "image_path": "/static/images/sketch-map.png",
+        "audio_path": "/static/audio/sketch-map.mp3"
+    },
+    {
+        "English Term": "conveyor",
+        "Arabic Translation": "ناقل آلي",
+        "Description": "نظام ميكانيكي لنقل المواد",
+        "image_path": "/static/images/conveyor.png",
+        "audio_path": "/static/audio/conveyor.mp3"
+    },
+    {
+        "English Term": "cutter",
+        "Arabic Translation": "قاطع",
+        "Description": "أداة لقطع المواد",
+        "image_path": "/static/images/cutter.png",
+        "audio_path": "/static/audio/cutter.mp3"
+    },
+    {
+        "English Term": "cutter face",
+        "Arabic Translation": "وجه القاطع",
+        "Description": "السطح القاطع في أداة القطع",
+        "image_path": "/static/images/cutter-face.png",
+        "audio_path": "/static/audio/cutter-face.mp3"
+    },
+    {
+        "English Term": "drill",
+        "Arabic Translation": "مثقاب",
+        "Description": "أداة لعمل الثقوب",
+        "image_path": "/static/images/drill.png",
+        "audio_path": "/static/audio/drill.mp3"
+    },
+    {
+        "English Term": "hydraulic cylinder",
+        "Arabic Translation": "اسطوانة هيدروليكية",
+        "Description": "جهاز يستخدم ضغط السوائل لتوليد قوة حركية",
+        "image_path": "/static/images/hydraulic-cylinder.png",
+        "audio_path": "/static/audio/hydraulic-cylinder.mp3"
+    },
+    {
+        "English Term": "steel shoe",
+        "Arabic Translation": "حذاء فولاذي",
+        "Description": "قطعة فولاذية واقية للقدم",
+        "image_path": "/static/images/steel-shoe.png",
+        "audio_path": "/static/audio/steel-shoe.mp3"
+    },
+    {
+        "English Term": "chute",
+        "Arabic Translation": "مزلاق",
+        "Description": "قناة مائلة لتوجيه المواد",
+        "image_path": "/static/images/chute.png",
+        "audio_path": "/static/audio/chute.mp3"
+    },
+    {
+        "English Term": "grip",
+        "Arabic Translation": "يمسك",
+        "Description": "الإمساك بشيء بقوة",
+        "image_path": "/static/images/grip.png",
+        "audio_path": "/static/audio/grip.mp3"
+    },
+    {
+        "English Term": "scoop",
+        "Arabic Translation": "مغرفة",
+        "Description": "أداة لرفع ونقل المواد السائبة",
+        "image_path": "/static/images/scoop.png",
+        "audio_path": "/static/audio/scoop.mp3"
+    },
+    {
+        "English Term": "strengthen",
+        "Arabic Translation": "يقوي",
+        "Description": "جعل الشيء أكثر قوة ومتانة",
+        "image_path": "/static/images/strengthen.png",
+        "audio_path": "/static/audio/strengthen.mp3"
+    },
+    {
+        "English Term": "supply",
+        "Arabic Translation": "يزود",
+        "Description": "توفير المواد أو الموارد اللازمة",
+        "image_path": "/static/images/supply.png",
+        "audio_path": "/static/audio/supply.mp3"
+    },
+    {
+        "English Term": "tooth/teeth",
+        "Arabic Translation": "سن/أسنان",
+        "Description": "الأجزاء البارزة في أدوات القطع",
+        "image_path": "/static/images/teeth.png",
+        "audio_path": "/static/audio/teeth.mp3"
+    },
+    {
+        "English Term": "oil drain plug",
+        "Arabic Translation": "سدادة تصريف الزيت",
+        "Description": "قطعة لتصريف الزيت من المحرك",
+        "image_path": "/static/images/oil-drain-plug.png",
+        "audio_path": "/static/audio/oil-drain-plug.mp3"
+    },
+    {
+        "English Term": "oil filler cap",
+        "Arabic Translation": "غطاء تعبئة الزيت",
+        "Description": "غطاء فتحة إضافة الزيت",
+        "image_path": "/static/images/oil-filler-cap.png",
+        "audio_path": "/static/audio/oil-filler-cap.mp3"
+    },
+    {
+        "English Term": "process",
+        "Arabic Translation": "يعالج",
+        "Description": "تنفيذ سلسلة من الإجراءات",
+        "image_path": "/static/images/process.png",
+        "audio_path": "/static/audio/process.mp3"
+    },
+    {
+        "English Term": "adjust",
+        "Arabic Translation": "يضبط",
+        "Description": "تعديل أو ضبط شيء للحصول على النتيجة المطلوبة",
+        "image_path": "/static/images/adjust.png",
+        "audio_path": "/static/audio/adjust.mp3"
+    },
+    {
+        "English Term": "align",
+        "Arabic Translation": "يحاذي",
+        "Description": "وضع الأشياء في خط مستقيم",
+        "image_path": "/static/images/align.png",
+        "audio_path": "/static/audio/align.mp3"
+    },
+    {
+        "English Term": "assemble",
+        "Arabic Translation": "يجمع",
+        "Description": "تجميع الأجزاء معاً",
+        "image_path": "/static/images/assemble.png",
+        "audio_path": "/static/audio/assemble.mp3"
+    },
+    {
+        "English Term": "connect",
+        "Arabic Translation": "يوصل",
+        "Description": "ربط أو توصيل شيئين معاً",
+        "image_path": "/static/images/connect.png",
+        "audio_path": "/static/audio/connect.mp3"
+    },
+    {
+        "English Term": "disconnect",
+        "Arabic Translation": "يفصل",
+        "Description": "فصل شيئين عن بعضهما",
+        "image_path": "/static/images/disconnect.png",
+        "audio_path": "/static/audio/disconnect.mp3"
+    },
+    {
+        "English Term": "inspect",
+        "Arabic Translation": "يفحص",
+        "Description": "فحص شيء بعناية للتأكد من جودته",
+        "image_path": "/static/images/inspect.png",
+        "audio_path": "/static/audio/inspect.mp3"
+    },
+    {
+        "English Term": "install",
+        "Arabic Translation": "يثبّت",
+        "Description": "وضع وتثبيت جهاز أو برنامج",
+        "image_path": "/static/images/install.png",
+        "audio_path": "/static/audio/install.mp3"
+    },
+    {
+        "English Term": "maintain",
+        "Arabic Translation": "يصون",
+        "Description": "الحفاظ على شيء في حالة جيدة",
+        "image_path": "/static/images/maintain.png",
+        "audio_path": "/static/audio/maintain.mp3"
+    },
+    {
+        "English Term": "operate",
+        "Arabic Translation": "يشغل",
+        "Description": "تشغيل آلة أو جهاز",
+        "image_path": "/static/images/operate.png",
+        "audio_path": "/static/audio/operate.mp3"
+    },
+    {
+        "English Term": "repair",
+        "Arabic Translation": "يصلح",
+        "Description": "إصلاح شيء معطل",
+        "image_path": "/static/images/repair.png",
+        "audio_path": "/static/audio/repair.mp3"
+    },
+    {
+        "English Term": "test",
+        "Arabic Translation": "يختبر",
+        "Description": "فحص شيء للتأكد من عمله",
+        "image_path": "/static/images/test.png",
+        "audio_path": "/static/audio/test.mp3"
+    },
+    {
+        "English Term": "tighten",
+        "Arabic Translation": "يشد",
+        "Description": "ربط شيء بإحكام",
+        "image_path": "/static/images/tighten.png",
+        "audio_path": "/static/audio/tighten.mp3"
+    },
+    {
+        "English Term": "unscrew",
+        "Arabic Translation": "يفك",
+        "Description": "فك البراغي أو الأجزاء الملولبة",
+        "image_path": "/static/images/unscrew.png",
+        "audio_path": "/static/audio/unscrew.mp3"
+    },
+    {
+        "English Term": "weld",
+        "Arabic Translation": "يلحم",
+        "Description": "توصيل قطع معدنية بالحرارة",
+        "image_path": "/static/images/weld.png",
+        "audio_path": "/static/audio/weld.mp3"
+    },
+    {
+        "English Term": "immediately",
+        "Arabic Translation": "فوراً",
+        "Description": "في الحال، بدون تأخير",
+        "image_path": "/static/images/immediately.png",
+        "audio_path": "/static/audio/immediately.mp3"
+    },
+    {
+        "English Term": "socket",
+        "Arabic Translation": "مقبس",
+        "Description": "فتحة لتوصيل الأجهزة الكهربائية",
+        "image_path": "/static/images/socket.png",
+        "audio_path": "/static/audio/socket.mp3"
+    },
+    {
+        "English Term": "spill",
+        "Arabic Translation": "ينسكب",
+        "Description": "تسرب السوائل أو الغازات",
+        "image_path": "/static/images/spill.png",
+        "audio_path": "/static/audio/spill.mp3"
+    },
+    {
+        "English Term": "visor",
+        "Arabic Translation": "واقي الوجه",
+        "Description": "غطاء شفاف لحماية الوجه",
+        "image_path": "/static/images/visor.png",
+        "audio_path": "/static/audio/visor.mp3"
+    },
+    {
+        "English Term": "wheel-gun",
+        "Arabic Translation": "مفك عجلات آلي",
+        "Description": "أداة آلية لفك وتركيب العجلات",
+        "image_path": "/static/images/wheel-gun.png",
+        "audio_path": "/static/audio/wheel-gun.mp3"
+    },
+    {
+        "English Term": "wheel-jack",
+        "Arabic Translation": "رافعة عجلات",
+        "Description": "أداة لرفع السيارة لتغيير العجلات",
+        "image_path": "/static/images/wheel-jack.png",
+        "audio_path": "/static/audio/wheel-jack.mp3"
+    },
+    {
+        "English Term": "lift up",
+        "Arabic Translation": "يرفع",
+        "Description": "رفع شيء إلى أعلى",
+        "image_path": "/static/images/lift-up.png",
+        "audio_path": "/static/audio/lift-up.mp3"
+    },
+    {
+        "English Term": "pick up",
+        "Arabic Translation": "يلتقط",
+        "Description": "التقاط شيء من الأرض",
+        "image_path": "/static/images/pick-up.png",
+        "audio_path": "/static/audio/pick-up.mp3"
+    },
+    {
+        "English Term": "put down",
+        "Arabic Translation": "يضع",
+        "Description": "وضع شيء على الأرض",
+        "image_path": "/static/images/put-down.png",
+        "audio_path": "/static/audio/put-down.mp3"
+    },
+    {
+        "English Term": "almost done",
+        "Arabic Translation": "تقريباً انتهى",
+        "Description": "قريب من الانتهاء",
+        "image_path": "/static/images/almost-done.png",
+        "audio_path": "/static/audio/almost-done.mp3"
+    },
+    {
+        "English Term": "hang on",
+        "Arabic Translation": "انتظر",
+        "Description": "طلب الانتظار لفترة قصيرة",
+        "image_path": "/static/images/hang-on.png",
+        "audio_path": "/static/audio/hang-on.mp3"
+    },
+    {
+        "English Term": "just a minute",
+        "Arabic Translation": "دقيقة واحدة",
+        "Description": "طلب الانتظار لمدة دقيقة",
+        "image_path": "/static/images/just-a-minute.png",
+        "audio_path": "/static/audio/just-a-minute.mp3"
+    },
+    {
+        "English Term": "nearly finished",
+        "Arabic Translation": "قارب على الانتهاء",
+        "Description": "قريب جداً من إنهاء العمل",
+        "image_path": "/static/images/nearly-finished.png",
+        "audio_path": "/static/audio/nearly-finished.mp3"
+    },
+    {
+        "English Term": "one minute",
+        "Arabic Translation": "دقيقة واحدة",
+        "Description": "مدة زمنية قدرها دقيقة واحدة",
+        "image_path": "/static/images/one-minute.png",
+        "audio_path": "/static/audio/one-minute.mp3"
+    },
+    {
+        "English Term": "plaster hole",
+        "Arabic Translation": "ثقب في الجدار",
+        "Description": "فتحة في الجدار تحتاج إلى إصلاح",
+        "image_path": "/static/images/plaster-hole.png",
+        "audio_path": "/static/audio/plaster-hole.mp3"
+    },
+    {
+        "English Term": "kick",
+        "Arabic Translation": "يركل",
+        "Description": "ضرب شيء بالقدم",
+        "image_path": "/static/images/kick.png",
+        "audio_path": "/static/audio/kick.mp3"
+    },
+    {
+        "English Term": "ticket machine",
+        "Arabic Translation": "آلة التذاكر",
+        "Description": "جهاز لبيع أو طباعة التذاكر",
+        "image_path": "/static/images/ticket-machine.png",
+        "audio_path": "/static/audio/ticket-machine.mp3"
+    },
+    {
+        "English Term": "water heater",
+        "Arabic Translation": "سخان ماء",
+        "Description": "جهاز لتسخين الماء",
+        "image_path": "/static/images/water-heater.png",
+        "audio_path": "/static/audio/water-heater.mp3"
+    },
+    {
+        "English Term": "water valve",
+        "Arabic Translation": "صمام ماء",
+        "Description": "صمام للتحكم في تدفق الماء",
+        "image_path": "/static/images/water-valve.png",
+        "audio_path": "/static/audio/water-valve.mp3"
+    },
+    {
+        "English Term": "cord",
+        "Arabic Translation": "سلك",
+        "Description": "سلك كهربائي أو حبل",
+        "image_path": "/static/images/cord.png",
+        "audio_path": "/static/audio/cord.mp3"
+    },
+    {
+        "English Term": "handset",
+        "Arabic Translation": "سماعة يد",
+        "Description": "جزء من الهاتف يحمل باليد",
+        "image_path": "/static/images/handset.png",
+        "audio_path": "/static/audio/handset.mp3"
+    },
+    {
+        "English Term": "passenger",
+        "Arabic Translation": "راكب",
+        "Description": "شخص يستخدم وسيلة نقل",
+        "image_path": "/static/images/passenger.png",
+        "audio_path": "/static/audio/passenger.mp3"
+    },
+    {
+        "English Term": "accelerator",
+        "Arabic Translation": "دواسة السرعة",
+        "Description": "دواسة للتحكم في سرعة المركبة",
+        "image_path": "/static/images/accelerator.png",
+        "audio_path": "/static/audio/accelerator.mp3"
+    },
+    {
+        "English Term": "dial",
+        "Arabic Translation": "قرص الاتصال",
+        "Description": "قرص دوار للاتصال أو الضبط",
+        "image_path": "/static/images/dial.png",
+        "audio_path": "/static/audio/dial.mp3"
+    },
+    {
+        "English Term": "emergency stop",
+        "Arabic Translation": "توقف طارئ",
+        "Description": "زر أو آلية للإيقاف الفوري",
+        "image_path": "/static/images/emergency-stop.png",
+        "audio_path": "/static/audio/emergency-stop.mp3"
+    },
+    {
+        "English Term": "chest",
+        "Arabic Translation": "صندوق",
+        "Description": "وعاء كبير لتخزين الأشياء",
+        "image_path": "/static/images/chest.png",
+        "audio_path": "/static/audio/chest.mp3"
+    },
+    {
+        "English Term": "locate",
+        "Arabic Translation": "يحدد الموقع",
+        "Description": "تحديد مكان أو موقع شيء ما",
+        "image_path": "/static/images/locate.png",
+        "audio_path": "/static/audio/locate.mp3"
+    },
+    {
+        "English Term": "sideways",
+        "Arabic Translation": "جانبياً",
+        "Description": "الحركة أو الاتجاه إلى الجانب",
+        "image_path": "/static/images/sideways.png",
+        "audio_path": "/static/audio/sideways.mp3"
+    },
+    {
+        "English Term": "surface",
+        "Arabic Translation": "سطح",
+        "Description": "الجزء الخارجي أو العلوي",
+        "image_path": "/static/images/surface.png",
+        "audio_path": "/static/audio/surface.mp3"
+    },
+    {
+        "English Term": "upright",
+        "Arabic Translation": "عمودي",
+        "Description": "في وضع مستقيم وعمودي",
+        "image_path": "/static/images/upright.png",
+        "audio_path": "/static/audio/upright.mp3"
+    },
+    {
+        "English Term": "aisle",
+        "Arabic Translation": "ممر",
+        "Description": "ممر بين الرفوف أو المقاعد",
+        "image_path": "/static/images/aisle.png",
+        "audio_path": "/static/audio/aisle.mp3"
+    },
+    {
+        "English Term": "blockage",
+        "Arabic Translation": "انسداد",
+        "Description": "شيء يمنع المرور أو التدفق",
+        "image_path": "/static/images/blockage.png",
+        "audio_path": "/static/audio/blockage.mp3"
+    },
+    {
+        "English Term": "level",
+        "Arabic Translation": "مستوى",
+        "Description": "سطح أفقي مستوٍ",
+        "image_path": "/static/images/level.png",
+        "audio_path": "/static/audio/level.mp3"
+    },
+    {
+        "English Term": "overload",
+        "Arabic Translation": "يفرط في التحميل",
+        "Description": "تحميل أكثر من الحد المسموح",
+        "image_path": "/static/images/overload.png",
+        "audio_path": "/static/audio/overload.mp3"
+    },
+    {
+        "English Term": "stack",
+        "Arabic Translation": "يكدس",
+        "Description": "وضع الأشياء فوق بعضها",
+        "image_path": "/static/images/stack.png",
+        "audio_path": "/static/audio/stack.mp3"
+    },
+    {
+        "English Term": "liquid",
+        "Arabic Translation": "سائل",
+        "Description": "مادة تتدفق وتأخذ شكل وعائها",
+        "image_path": "/static/images/liquid.png",
+        "audio_path": "/static/audio/liquid.mp3"
+    },
+    {
+        "English Term": "freezer",
+        "Arabic Translation": "مجمد",
+        "Description": "جهاز لتجميد وحفظ الطعام",
+        "image_path": "/static/images/freezer.png",
+        "audio_path": "/static/audio/freezer.mp3"
+    },
+    {
+        "English Term": "belongings",
+        "Arabic Translation": "متعلقات",
+        "Description": "الأشياء التي يملكها شخص ما",
+        "image_path": "/static/images/belongings.png",
+        "audio_path": "/static/audio/belongings.mp3"
+    },
+    {
+        "English Term": "anchor",
+        "Arabic Translation": "مرساة",
+        "Description": "أداة لتثبيت السفينة في الماء",
+        "image_path": "/static/images/anchor.png",
+        "audio_path": "/static/audio/anchor.mp3"
+    },
+    {
+        "English Term": "injure",
+        "Arabic Translation": "يصيب",
+        "Description": "التسبب في أذى أو ضرر",
+        "image_path": "/static/images/injure.png",
+        "audio_path": "/static/audio/injure.mp3"
+    },
+    {
+        "English Term": "scuba diver",
+        "Arabic Translation": "غواص",
+        "Description": "شخص يغوص تحت الماء",
+        "image_path": "/static/images/scuba-diver.png",
+        "audio_path": "/static/audio/scuba-diver.mp3"
+    },
+    {
+        "English Term": "seabed",
+        "Arabic Translation": "قاع البحر",
+        "Description": "سطح قاع البحر",
+        "image_path": "/static/images/seabed.png",
+        "audio_path": "/static/audio/seabed.mp3"
+    },
+    {
+        "English Term": "shipwreck",
+        "Arabic Translation": "حطام سفينة",
+        "Description": "سفينة محطمة أو غارقة",
+        "image_path": "/static/images/shipwreck.png",
+        "audio_path": "/static/audio/shipwreck.mp3"
+    },
+    {
+        "English Term": "buoyant",
+        "Arabic Translation": "طافٍ",
+        "Description": "قادر على الطفو على سطح الماء",
+        "image_path": "/static/images/buoyant.png",
+        "audio_path": "/static/audio/buoyant.mp3"
+    },
+    {
+        "English Term": "tow",
+        "Arabic Translation": "يسحب",
+        "Description": "سحب شيء خلف مركبة",
+        "image_path": "/static/images/tow.png",
+        "audio_path": "/static/audio/tow.mp3"
+    },
+    {
+        "English Term": "communications satellite",
+        "Arabic Translation": "قمر اتصالات صناعي",
+        "Description": "قمر صناعي يستخدم للاتصالات",
+        "image_path": "/static/images/communications-satellite.png",
+        "audio_path": "/static/audio/communications-satellite.mp3"
+    },
+    {
+        "English Term": "frequency",
+        "Arabic Translation": "تردد",
+        "Description": "عدد الذبذبات في الثانية",
+        "image_path": "/static/images/frequency.png",
+        "audio_path": "/static/audio/frequency.mp3"
+    },
+    {
+        "English Term": "satellite dish",
+        "Arabic Translation": "طبق استقبال فضائي",
+        "Description": "جهاز لاستقبال إشارات الأقمار الصناعية",
+        "image_path": "/static/images/satellite-dish.png",
+        "audio_path": "/static/audio/satellite-dish.mp3"
+    },
+    {
+        "English Term": "digital TV card",
+        "Arabic Translation": "بطاقة تلفاز رقمي",
+        "Description": "جهاز لاستقبال البث التلفزيوني الرقمي",
+        "image_path": "/static/images/digital-tv-card.png",
+        "audio_path": "/static/audio/digital-tv-card.mp3"
+    },
+    {
+        "English Term": "feed horn",
+        "Arabic Translation": "قرن التغذية",
+        "Description": "جزء من طبق الاستقبال يجمع الإشارات",
+        "image_path": "/static/images/feed-horn.png",
+        "audio_path": "/static/audio/feed-horn.mp3"
+    },
+    {
+        "English Term": "high frequency",
+        "Arabic Translation": "تردد عالي",
+        "Description": "موجات ذات تردد مرتفع",
+        "image_path": "/static/images/high-frequency.png",
+        "audio_path": "/static/audio/high-frequency.mp3"
+    },
+    {
+        "English Term": "low frequency",
+        "Arabic Translation": "تردد منخفض",
+        "Description": "موجات ذات تردد منخفض",
+        "image_path": "/static/images/low-frequency.png",
+        "audio_path": "/static/audio/low-frequency.mp3"
+    },
+    {
+        "English Term": "orbit",
+        "Arabic Translation": "مدار",
+        "Description": "المسار الذي يدور فيه القمر الصناعي",
+        "image_path": "/static/images/orbit.png",
+        "audio_path": "/static/audio/orbit.mp3"
+    },
+    {
+        "English Term": "PC monitor",
+        "Arabic Translation": "شاشة حاسوب",
+        "Description": "شاشة لعرض مخرجات الحاسوب",
+        "image_path": "/static/images/pc-monitor.png",
+        "audio_path": "/static/audio/pc-monitor.mp3"
+    },
+    {
+        "English Term": "TV station",
+        "Arabic Translation": "محطة تلفزيونية",
+        "Description": "مركز لبث البرامج التلفزيونية",
+        "image_path": "/static/images/tv-station.png",
+        "audio_path": "/static/audio/tv-station.mp3"
+    },
+    {
+        "English Term": "display",
+        "Arabic Translation": "يعرض",
+        "Description": "إظهار المعلومات على الشاشة",
+        "image_path": "/static/images/display.png",
+        "audio_path": "/static/audio/display.mp3"
+    },
+    {
+        "English Term": "convert",
+        "Arabic Translation": "يحول",
+        "Description": "تغيير شيء من شكل إلى آخر",
+        "image_path": "/static/images/convert.png",
+        "audio_path": "/static/audio/convert.mp3"
+    },
+    {
+        "English Term": "extract",
+        "Arabic Translation": "يستخرج",
+        "Description": "استخراج شيء من مصدر",
+        "image_path": "/static/images/extract.png",
+        "audio_path": "/static/audio/extract.mp3"
+    },
+    {
+        "English Term": "reflect",
+        "Arabic Translation": "يعكس",
+        "Description": "إرجاع الضوء أو الموجات",
+        "image_path": "/static/images/reflect.png",
+        "audio_path": "/static/audio/reflect.mp3"
+    },
+    {
+        "English Term": "transmit",
+        "Arabic Translation": "يرسل",
+        "Description": "إرسال إشارات أو معلومات",
+        "image_path": "/static/images/transmit.png",
+        "audio_path": "/static/audio/transmit.mp3"
+    },
+    {
+        "English Term": "algorithm",
+        "Arabic Translation": "خوارزمية",
+        "Description": "مجموعة من الخطوات المنظمة لحل مشكلة معينة",
+        "image_path": "algorithm.png",
+        "audio_path": "algorithm.mp3",
+        "category": "programming"
+    },
+    {
+        "English Term": "database",
+        "Arabic Translation": "قاعدة بيانات",
+        "Description": "نظام منظم لتخزين واسترجاع البيانات",
+        "image_path": "database.png",
+        "audio_path": "database.mp3",
+        "category": "data"
+    },
+    {
+        "English Term": "network",
+        "Arabic Translation": "شبكة",
+        "Description": "مجموعة من الأجهزة المتصلة ببعضها البعض",
+        "image_path": "network.png",
+        "audio_path": "network.mp3",
+        "category": "networking"
+    },
+    {
+        "English Term": "software",
+        "Arabic Translation": "برمجيات",
+        "Description": "مجموعة من البرامج والتعليمات التي تشغل الحاسوب",
+        "image_path": "software.png",
+        "audio_path": "software.mp3",
+        "category": "programming"
+    },
+    {
+        "English Term": "hardware",
+        "Arabic Translation": "عتاد",
+        "Description": "المكونات المادية للحاسوب",
+        "image_path": "hardware.png",
+        "audio_path": "hardware.mp3",
+        "category": "hardware"
+    },
+    {
+        "English Term": "cloud computing",
+        "Arabic Translation": "الحوسبة السحابية",
+        "Description": "تقديم خدمات الحوسبة عبر الإنترنت",
+        "image_path": "cloud-computing.png",
+        "audio_path": "cloud-computing.mp3",
+        "category": "cloud"
+    },
+    {
+        "English Term": "cybersecurity",
+        "Arabic Translation": "الأمن السيبراني",
+        "Description": "حماية الأنظمة والشبكات من الهجمات الإلكترونية",
+        "image_path": "cybersecurity.png",
+        "audio_path": "cybersecurity.mp3",
+        "category": "security"
+    },
+    {
+        "English Term": "machine learning",
+        "Arabic Translation": "تعلم الآلة",
+        "Description": "تقنية تمكن الأجهزة من التعلم من البيانات",
+        "image_path": "machine-learning.png",
+        "audio_path": "machine-learning.mp3",
+        "category": "ai"
+    },
+    {
+        "English Term": "version control",
+        "Arabic Translation": "نظام التحكم بالنسخ",
+        "Description": "نظام لتتبع وإدارة التغييرات في الكود",
+        "image_path": "version-control.png",
+        "audio_path": "version-control.mp3",
+        "category": "programming"
+    },
+    {
+        "English Term": "framework",
+        "Arabic Translation": "إطار عمل",
+        "Description": "مجموعة من الأدوات والمكتبات لتطوير البرمجيات",
+        "image_path": "framework.png",
+        "audio_path": "framework.mp3",
+        "category": "programming"
+    }
+]

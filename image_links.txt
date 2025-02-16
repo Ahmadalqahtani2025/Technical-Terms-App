@@ -1,0 +1,28 @@
+# روابط الصور المطلوبة للتطبيق
+
+## مجلد الأدوات (tools)
+- مفتاح ربط: https://commons.wikimedia.org/wiki/File:Chave_fixa.jpg
+- مجموعة مفاتيح: https://commons.wikimedia.org/wiki/File:Collection_of_antique_wrenches_(49164837241).jpg
+
+## مجلد قطع الغيار (parts)
+- محرك: https://commons.wikimedia.org/wiki/File:Engine_Block_Repair_Shop.jpg
+- رأس المحرك: https://commons.wikimedia.org/wiki/File:Head-ZMZ-406-engine.jpg
+- مضخة زيت: https://commons.wikimedia.org/wiki/File:Oil_Pump_from_Toyota_Coaster_Bus.JPG
+
+## مجلد السلامة (safety)
+- معدات حماية شخصية: https://commons.wikimedia.org/wiki/File:Personal_Protection_Equipment_(PPE).jpg
+- معدات حماية متنوعة: https://commons.wikimedia.org/wiki/File:Personal_protective_equipment_at_Chievres_(6193733).jpg
+
+## مجلد التخصصات (specializations)
+
+### البرمجة (programming)
+- كود برمجي: https://commons.wikimedia.org/wiki/File:AdvanceStep_JavaScript_function.png
+- تطوير أندرويد: https://commons.wikimedia.org/wiki/File:Android_Studio_code.png
+
+### الشبكات (networking)
+- سويتش سيسكو: https://commons.wikimedia.org/wiki/File:Cisco_SG_200-08P_front.jpg
+- معدات شبكة: https://commons.wikimedia.org/wiki/File:Guifi.net_supernode_hardware.jpg
+
+### الأمن (security)
+- كاميرا مراقبة خارجية: https://commons.wikimedia.org/wiki/File:Blink_Outdoor_4_Security_Camera.jpg
+- كاميرا IP: https://commons.wikimedia.org/wiki/File:Camera_IP_Tenda_cu_PoE_si_alimentare_CC.jpg

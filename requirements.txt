@@ -1,0 +1,6 @@
+Flask>=2.2.5
+Flask-SQLAlchemy>=3.0.5
+Werkzeug>=2.3.7
+gTTS>=2.3.2
+gspread>=5.1.1
+oauth2client>=4.1.3
